@@ -1,8 +1,8 @@
 University of Essex Online
 MSc Cybersecurity | E-Portfolio
-MuhammadQ | 12687766
+M.Q. | 12687766
 
------------------------------------------------------------------------------------
+-----------------------------CREDITS-----------------------------
 
 Forty by HTML5 UP
 html5up.net | @ajlkn
